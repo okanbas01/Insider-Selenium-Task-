@@ -37,5 +37,5 @@ This guide outlines the steps for building and running tests within the **Inside
 ### 2) Setup
 ```bash
 git clone https://github.com/okanbas01/okan-bas-careers-qa-automation.git
-cd </insider-careers-qa-automation>
+cd </okan-bas-careers-qa-automation>
 mvn clean install -DskipTests
