@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="Insider QA Suite" verbose="1">
+    <test name="E2E">
+        <classes>
+            <!-- SADECE test sınıfı: -->
+            <class name="tests.InsiderQATest"/>
+        </classes>
+    </test>
+</suite>
