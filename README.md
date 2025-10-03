@@ -1,5 +1,5 @@
-# Insider Careers QA Automation
-This guide outlines the steps for building and running tests within the **Insider Careers QA Automation** project (Selenium + Java + TestNG).
+# Careers QA Automation
+This guide outlines the steps for building and running tests within the **Careers QA Automation** project (Selenium + Java + TestNG).
 
 ---
 
